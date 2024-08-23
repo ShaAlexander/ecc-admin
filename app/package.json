@@ -1,9 +1,9 @@
 {
-  "name": "yunohost-admin",
+  "name": "ecc-admin",
   "version": "0.1.0",
   "private": true,
-  "description": "YunoHost Admin web interface",
-  "author": "Yunohost",
+  "description": "Client Admin web interface for YH",
+  "author": "EasyComp Zeeland",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
